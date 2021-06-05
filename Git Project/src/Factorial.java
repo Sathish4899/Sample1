@@ -15,7 +15,7 @@ public class Factorial {
 		// TODO Auto-generated method stub
 
 	}
-		System.out.println("Sathish");
+		System.out.println("painkiller");
 
 }
 }
